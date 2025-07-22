@@ -1,0 +1,31 @@
+# Streamlit in Snowflake Requirements
+# These dependencies are for the Streamlit in Snowflake environment
+
+# Core Streamlit (pre-installed in Snowflake)
+streamlit
+
+# Essential data manipulation (pre-installed in Snowflake)
+pandas
+numpy
+
+# Plotting and visualization 
+plotly
+matplotlib
+seaborn
+
+# Snowflake specific packages (pre-installed in Snowflake)
+snowflake-snowpark-python
+snowflake-connector-python
+
+# Additional packages that may need to be imported
+scikit-learn
+scipy
+
+# For any custom UDF development
+# Note: Many ML libraries are pre-installed in Snowflake
+# Check Snowflake documentation for available packages
+
+# Development and testing (for local development only)
+pytest
+black
+flake8 
