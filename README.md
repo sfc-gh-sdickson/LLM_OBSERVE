@@ -1,7 +1,8 @@
+<img src="Snowflake_Logo.svg" width="200">
+
 # LLM Observe - Streamlit in Snowflake Foundation Models Monitor
 
 A comprehensive **Streamlit in Snowflake** application for monitoring and evaluating LLM performance with Snowflake Foundation Models. This single-file native Snowflake app provides real-time evaluation of **15 critical metrics** including BERTScore, faithfulness, hallucination detection, safety measures, and bias testing.
-<img src="Snowflake_Logo.svg" width="200">
 
 ## 🚀 Features
 
